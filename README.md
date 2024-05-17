@@ -1,4 +1,4 @@
 # Python para Data Science 
-## imagens
-## formulas
-## representações 
+## Imagens
+## Fórmulas
+## Representações 
